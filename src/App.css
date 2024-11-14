@@ -26,8 +26,8 @@ padding: 0px 12px;
 margin: 5px;
 width: 240px;
 border-radius: 5px;
-
 }
+
 .App {
   background-color: rgb(255, 255, 255);
 }
@@ -39,7 +39,7 @@ border-radius: 5px;
 }
 
 .Card {
-  width: 300px;
+  width: 30px;
   margin-top: 10px;
   align-items: center;
   padding: 10px;
