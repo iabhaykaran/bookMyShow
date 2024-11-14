@@ -26,7 +26,7 @@ export default function BookShow() {
             marginTop: "20px",
             
 
-            maxWidth: "fit-content",
+            maxWidth: "100",
             marginLeft: "auto",
             marginRight: "auto",
           }}
